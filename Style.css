@@ -1,0 +1,74 @@
+<style>
+
+  #maintext{
+    width:100px;
+    height:50px;
+    margin: 200px 500px 100px 10px;
+    font-size: 12pt;
+    font-family: monospace;
+    color: gray;
+    text-align: left;
+  }
+  #title{
+    position: relative;
+    top: 50px;
+    font-weight: bold;
+    font-size: 18pt;
+    font-family: monospace;
+    margin: auto;
+    width: auto;
+    height: auto;
+    text-align: center;
+  }
+  #list{
+    position: relative;
+    top: 50px;
+    font-weight: bold;
+    font-size: 15pt;
+    font-family: monospace;
+    width:auto;
+    margin-bottom: 10px;
+    height: 30px;
+    text-align: left;
+  }
+  #subtext{
+    position: relative;
+    top: 50px;
+    font-weight: lighter;
+    font-size: 12pt;
+    font-family: monospace;
+    margin-bottom: 10px;
+    position: relative top: 5%;
+    text-align: left;
+  }
+  #image{
+    width: 200px;
+    height: 100px;
+    position: relative;
+    left: 85%;
+    
+  }
+  #btn{
+    position: relative;
+    top: 60px;
+    left: 80%;
+    width:100px;
+    height:auto;
+    font-size: 12pt;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    border: 0;
+    outline: 0;
+    color: white;
+    background-color: skyblue;
+    text-align: center;
+  }
+
+  #hr{
+    position: relative;
+    top :55px;
+  }
+
+</style>
